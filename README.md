@@ -20,7 +20,7 @@ GitHub Skillsは英語で書かれていて、資料として受けが悪かっ�
 - GitHubへようこそ
 - マークダウンをつかう
 
-### GitHubを初めて1週刊
+### GitHubを初めて1週間
 
 - Review Pull requests
 - Resolve merge requests
