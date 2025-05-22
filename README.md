@@ -11,7 +11,7 @@ GitHub Skillsは英語で書かれていて、資料として受けが悪かっ�
 
 初心者からエキスパートまで勉強可能なインタラクティブなコースでGitHubについて学びましょう。
 
-![cat](https://user-images.githubusercontent.com/1221423/156894097-ff2d6566-7b6a-4488-950e-f4ebe990965a.svg)
+<img src="https://user-images.githubusercontent.com/1221423/156894097-ff2d6566-7b6a-4488-950e-f4ebe990965a.svg" width="50%">
 
 ## コース
 
