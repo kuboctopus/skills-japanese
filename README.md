@@ -17,7 +17,7 @@ GitHub Skillsは英語で書かれていて、資料として受けが悪かっ�
 
 ### GitHubの最初の1日
 
-- GitHubへようこそ
+- [GitHub入門](https://github.com/kuboctopus/introduction-to-github)
 - マークダウンをつかう
 
 ### GitHubを初めて1週間
