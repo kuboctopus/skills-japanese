@@ -23,7 +23,7 @@ GitHub Skillsは英語で書かれていて、資料として受けが悪かっ�
 ### GitHubを初めて1週間
 
 - [プルリクエストをレビューする](https://github.com/kuboctopus/review-pull-requests)
-- Resolve merge requests
+- [マージコンフリクトを解決する](https://github.com/kuboctopus/resolve-merge-conflicts)
 - Resolve merge conflicts
 - Dodge merge conflict
 - Release based workflow
