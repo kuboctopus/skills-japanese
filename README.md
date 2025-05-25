@@ -27,3 +27,9 @@ GitHub Skillsは英語で書かれていて、資料として受けが悪かっ�
 - Dodge merge conflict
 - [リリースベースのワークフローを作成する](https://github.com/kuboctopus/release-based-workflow)
 - [GitLabフローでリポジトリを管理する](https://github.com/kuboctopus/gitlab-workflow)
+
+### GitHub Actionsでワークフローを自動化する
+
+- Hello GitHub Actions
+- Test with Actions
+- Test infrastructure with Actions
