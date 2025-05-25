@@ -30,6 +30,6 @@ GitHub Skillsは英語で書かれていて、資料として受けが悪かっ�
 
 ### GitHub Actionsでワークフローを自動化する
 
-- Hello GitHub Actions
+- [GitHub Actionsへようこそ](https://github.com/kuboctopus/hello-github-actions)
 - Test with Actions
 - Test infrastructure with Actions
